@@ -104,7 +104,7 @@ EMAIL_USER=netflix.shared@gmail.com
 
 **Example:**
 ```env
-EMAIL_PASS=qwer tyui asdf ghjk
+EMAIL_PASS=qwertyuiasdfghjk
 ```
 
 **Troubleshooting:**
