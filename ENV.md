@@ -97,8 +97,8 @@ EMAIL_USER=netflix.shared@gmail.com
    - Select "Mail" from the dropdown
    - Select "Windows Computer" (or your OS)
    - Click "Generate"
-   - Gmail will show a 16-character password without spaces
-   - Copy it exactly (without spaces!)
+   - Gmail will show a 16-character password with spaces
+   - Copy it exactly (with spaces!)
 
 **Format:** `abcdefghijklmnop` (without spaces)
 
